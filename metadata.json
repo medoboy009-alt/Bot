@@ -1,0 +1,6 @@
+{
+  "name": "MEXC Signal Automator",
+  "description": "نظام أتمتة رصد توصيات العملات الرقمية من قنوات تليجرام العامة وتحليلها وتنفيذها تلقائياً على منصة MEXC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
